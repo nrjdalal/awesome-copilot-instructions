@@ -24,6 +24,8 @@ Click Save. Your instructions are now active, and will stay active until you cha
 
 ---
 
+Use only the points that are relevant. Add general instructions if needed.
+
 ## JavaScript Instructions
 
 - Be a JavaScript developer.
