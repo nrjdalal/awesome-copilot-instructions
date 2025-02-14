@@ -26,8 +26,8 @@ Click Save. Your instructions are now active, and will stay active until you cha
 
 ## JavaScript Developers
 
-`I am a JavaScript developer, and I use ESM modules.`
+`I'm a JavaScript developer and use ESM.`
 
 ## General Instructions
 
-`Don't suggest snippets in other languages unless I ask.`
+`Only suggest other languages if I ask.`
