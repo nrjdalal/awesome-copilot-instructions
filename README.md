@@ -4,20 +4,31 @@
 
 ## How to add copilot instructions for web browser
 
-1. Go to https://github.com/copilot and click on 3 dots.
+Go to https://github.com/copilot and click on 3 dots.
 
-![](https://github.com/user-attachments/assets/a8a2c5bf-6ac0-4ed7-90b5-21a59f2d212c)
+<details><summary>Screenshot</summary><br/>
+  <img src="https://github.com/user-attachments/assets/a8a2c5bf-6ac0-4ed7-90b5-21a59f2d212c" alt="Screenshot">
+</details>
 
-2. Click on Personal Instructions.
+<br/>
 
-![](https://github.com/user-attachments/assets/e42a24a5-3ce0-4dd0-8436-a68d23ee8e63)
+Click on Personal Instructions.
 
-3. Add your instructions and click on Save.
+<details><summary>Screenshot</summary><br/>
+  <img src="https://github.com/user-attachments/assets/e42a24a5-3ce0-4dd0-8436-a68d23ee8e63" alt="Screenshot">
+</details>
 
-![](https://github.com/user-attachments/assets/999ff9ae-3ebc-40bb-a6a6-7b91a60f49ef)
+<br/>
+
+Add your instructions and click on Save.
+
+<details><summary>Screenshot</summary><br/>
+  <img src="https://github.com/user-attachments/assets/999ff9ae-3ebc-40bb-a6a6-7b91a60f49ef" alt="Screenshot">
+</details>
 
 ## JavaScript Developers
 
-```md
-
+```plaintext
+- I am a JavaScript developer and I use ESM modules.
+- Don't suggest me snippets in other languages unless asked.
 ```
