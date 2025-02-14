@@ -24,13 +24,13 @@ Click Save. Your instructions are now active, and will stay active until you cha
 
 ---
 
-## JavaScript Developers
+## General Instructions
+
+- Suggest other languages only if requested.
+
+## JavaScript Instructions
 
 - Be a JavaScript developer.
 - Use arrow function expressions.
 - Use ESM modules.
 - Use TypeScript.
-
-## General Instructions
-
-- Suggest other languages only if requested.
