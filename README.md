@@ -30,7 +30,7 @@ Use only the points that are relevant. Add general instructions if needed.
 
 - Be a JavaScript developer.
 - Use arrow function expressions.
-- Use ESM modules.
+- Use ESM syntax.
 - Use TypeScript.
 
 ## General Instructions
