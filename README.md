@@ -26,11 +26,11 @@ Click Save. Your instructions are now active, and will stay active until you cha
 
 ## JavaScript Developers
 
-- I'm a JavaScript developer.
+- Be a JavaScript developer.
 - Use arrow function expressions.
 - Use ESM modules.
 - Use TypeScript.
 
 ## General Instructions
 
-- Only suggest other languages if I ask.
+- Suggest other languages only if requested.
