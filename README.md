@@ -4,6 +4,8 @@
 
 ## Adding personal custom instructions for web browser
 
+In the top right of any page on GitHub, click the GitHub Copilot icon next to the search bar.
+
 <details><summary>Screenshot</summary><br/>
   <img src="https://github.com/user-attachments/assets/a8a2c5bf-6ac0-4ed7-90b5-21a59f2d212c" alt="Screenshot">
 </details>
