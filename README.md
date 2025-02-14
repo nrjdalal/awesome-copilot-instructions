@@ -29,6 +29,7 @@ Use only the points that are relevant. Add general instructions if needed.
 ## JavaScript Instructions
 
 - Be a JavaScript developer.
+- Don't use semicolons.
 - Use arrow function expressions.
 - Use ESM syntax.
 - Use TypeScript.
