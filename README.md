@@ -30,6 +30,7 @@ Use only the points that are relevant. Add general instructions if needed.
 
 - Be a JavaScript developer.
 - Avoid semicolons.
+- Use arrow functions.
 - Use modern syntax.
 - Use TypeScript.
 
