@@ -26,8 +26,8 @@ Click Save. Your instructions are now active, and will stay active until you cha
 
 ## JavaScript Developers
 
-`I'm a JavaScript developer and use ESM.`
+- I'm a JavaScript developer and use ESM.
 
 ## General Instructions
 
-`Only suggest other languages if I ask.`
+- Only suggest other languages if I ask.
