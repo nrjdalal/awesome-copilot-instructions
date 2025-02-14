@@ -4,13 +4,11 @@
 
 ## Adding personal custom instructions for [web browser](https://github.com/copilot)
 
-Select the dropdown menu at the top of the Chat panel.
+If in the immersive view, select the dropdown menu at the top right of the page, then click Personal instructions.
 
 <details><summary>Screenshot</summary><br/>
   <img src="https://github.com/user-attachments/assets/a8a2c5bf-6ac0-4ed7-90b5-21a59f2d212c" alt="Screenshot">
 </details>
-
-If in the immersive view, select the dropdown menu at the top right of the page, then click Personal instructions.
 
 <details><summary>Screenshot</summary><br/>
   <img src="https://github.com/user-attachments/assets/e42a24a5-3ce0-4dd0-8436-a68d23ee8e63" alt="Screenshot">
